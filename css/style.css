@@ -1,3 +1,22 @@
+/* generale */
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+ul{
+    margin:auto 0!important;
+    
+}
+
+
+
 .special-background{
     background-color: #1ABC9C;
 }
@@ -9,3 +28,15 @@
 .white{
     color: white;
 }
+
+.prova{
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.prova-2{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+
