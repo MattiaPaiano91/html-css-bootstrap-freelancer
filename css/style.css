@@ -1,7 +1,11 @@
 /* generale */
-li{
+header li{
     list-style: none;
     display: inline-block;
+}
+
+li{
+    list-style: none;
 }
 
 a{
@@ -15,6 +19,15 @@ ul{
     
 }
 
+.img-box{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
 
 
 .special-background{
